@@ -203,7 +203,7 @@
 
 
 # 이용안내
-<img width="300" src="https://user-images.githubusercontent.com/87305109/180640886-4994b917-6415-46c4-9596-d299399a0616.png"/>
+<img width="300" src="https://user-images.githubusercontent.com/87305109/180642171-8f3edeb9-567c-4f1d-adf7-882a33a6d77b.png"/>
 
 > <em><small>(1, 2, 3, 4 로 표시된 모든 버튼들은 클릭시 이동합니다.)</small></em>
 
