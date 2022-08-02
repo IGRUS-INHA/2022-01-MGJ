@@ -192,8 +192,22 @@
   </tr>
 </table>
 
+<h1></h1>
+<br /><br />
 
-
+<table align="center">
+  <th colspan="3">🧙‍운영진</th>
+  <tr>
+    <td align="center">Level. 1</td>
+    <td align="center">Level. 2</td>
+    <td align="center">Level. 3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/jimmypark4"><img src="https://avatars.githubusercontent.com/u/84165850?v=4" width="100px;" alt=""/><br />박진감</a><br /></td>
+    <td align="center"><a href="https://github.com/HyeonSoo-Jeon"><img src="https://avatars.githubusercontent.com/u/78081827?v=4" width="100px;" alt=""/><br />전현수</a><br /></td>
+    <td align="center"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="100px;" alt=""/><br />김은행</a><br /></td>
+  </tr>
+</table>
 
 
 <br /><br /><br /><br /><br />
